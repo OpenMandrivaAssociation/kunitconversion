@@ -16,7 +16,7 @@ BuildRequires: pkgconfig(Qt5Core)
 BuildRequires: pkgconfig(Qt5Network)
 BuildRequires: pkgconfig(Qt5Xml)
 BuildRequires: cmake(KF5I18n)
-BuildRequires: cmake(KF5Config)
+BuildRequires: cmake(KF5Config) kconfig
 BuildRequires: qmake5
 BuildRequires: extra-cmake-modules5
 
